@@ -11,6 +11,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
 
+## Hash Table
+
+| Problem Name | Difficulty |
+|---|---|
+| [242-Valid Anagram](./242-valid-anagram) | Easy |
+
 ## Matrix
 
 | Problem Name | Difficulty |
@@ -24,6 +30,18 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
 
+## Sorting
+
+| Problem Name | Difficulty |
+|---|---|
+| [242-Valid Anagram](./242-valid-anagram) | Easy |
+
+## String
+
+| Problem Name | Difficulty |
+|---|---|
+| [242-Valid Anagram](./242-valid-anagram) | Easy |
+
 ## Progress
 
-**Total Problems Solved: 2**
+**Total Problems Solved: 3**
