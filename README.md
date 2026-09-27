@@ -9,8 +9,15 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
+| [136-Single Number](./136-single-number) | Easy |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
+
+## Bit Manipulation
+
+| Problem Name | Difficulty |
+|---|---|
+| [136-Single Number](./136-single-number) | Easy |
 
 ## Boyer–Moore Majority Vote Algorithm
 
@@ -65,4 +72,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 4**
+**Total Problems Solved: 5**
