@@ -9,12 +9,32 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
+| [169-Majority Element](./169-majority-element) | Easy |
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
+
+## Boyer–Moore Majority Vote Algorithm
+
+| Problem Name | Difficulty |
+|---|---|
+| [169-Majority Element](./169-majority-element) | Easy |
+
+## Counting
+
+| Problem Name | Difficulty |
+|---|---|
+| [169-Majority Element](./169-majority-element) | Easy |
+
+## Divide and Conquer
+
+| Problem Name | Difficulty |
+|---|---|
+| [169-Majority Element](./169-majority-element) | Easy |
 
 ## Hash Table
 
 | Problem Name | Difficulty |
 |---|---|
+| [169-Majority Element](./169-majority-element) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 
 ## Matrix
@@ -34,6 +54,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [169-Majority Element](./169-majority-element) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 
 ## String
@@ -44,4 +65,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 3**
+**Total Problems Solved: 4**
