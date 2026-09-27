@@ -69,7 +69,14 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
+| [344-Reverse String](./344-reverse-string) | Easy |
+
+## Two Pointers
+
+| Problem Name | Difficulty |
+|---|---|
+| [344-Reverse String](./344-reverse-string) | Easy |
 
 ## Progress
 
-**Total Problems Solved: 5**
+**Total Problems Solved: 6**
