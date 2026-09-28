@@ -13,6 +13,13 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [136-Single Number](./136-single-number) | Easy |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
+| [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
+
+## Binary Search
+
+| Problem Name | Difficulty |
+|---|---|
+| [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
 ## Bit Manipulation
 
@@ -71,6 +78,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [169-Majority Element](./169-majority-element) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
+| [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
 ## String
 
@@ -84,7 +92,8 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [344-Reverse String](./344-reverse-string) | Easy |
+| [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
 ## Progress
 
-**Total Problems Solved: 7**
+**Total Problems Solved: 8**
