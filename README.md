@@ -8,6 +8,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [48-Rotate Image](./48-rotate-image) | Medium |
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
 | [136-Single Number](./136-single-number) | Easy |
 | [169-Majority Element](./169-majority-element) | Easy |
@@ -44,10 +45,17 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [169-Majority Element](./169-majority-element) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 
+## Math
+
+| Problem Name | Difficulty |
+|---|---|
+| [48-Rotate Image](./48-rotate-image) | Medium |
+
 ## Matrix
 
 | Problem Name | Difficulty |
 |---|---|
+| [48-Rotate Image](./48-rotate-image) | Medium |
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
 
@@ -79,4 +87,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 6**
+**Total Problems Solved: 7**
