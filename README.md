@@ -13,6 +13,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
 | [136-Single Number](./136-single-number) | Easy |
 | [169-Majority Element](./169-majority-element) | Easy |
+| [268-Missing Number](./268-missing-number) | Easy |
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
@@ -20,6 +21,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [268-Missing Number](./268-missing-number) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
 ## Bit Manipulation
@@ -27,6 +29,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [136-Single Number](./136-single-number) | Easy |
+| [268-Missing Number](./268-missing-number) | Easy |
 
 ## Boyer–Moore Majority Vote Algorithm
 
@@ -53,12 +56,14 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [1-Two Sum](./1-two-sum) | Easy |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
+| [268-Missing Number](./268-missing-number) | Easy |
 
 ## Math
 
 | Problem Name | Difficulty |
 |---|---|
 | [48-Rotate Image](./48-rotate-image) | Medium |
+| [268-Missing Number](./268-missing-number) | Easy |
 
 ## Matrix
 
@@ -80,6 +85,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [169-Majority Element](./169-majority-element) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
+| [268-Missing Number](./268-missing-number) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
 ## String
@@ -98,4 +104,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 9**
+**Total Problems Solved: 10**
