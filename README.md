@@ -15,6 +15,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [136-Single Number](./136-single-number) | Easy |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
+| [645-Set Mismatch](./645-set-mismatch) | Easy |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
@@ -32,6 +33,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [136-Single Number](./136-single-number) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
+| [645-Set Mismatch](./645-set-mismatch) | Easy |
 
 ## Boyer–Moore Majority Vote Algorithm
 
@@ -77,6 +79,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [169-Majority Element](./169-majority-element) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
+| [645-Set Mismatch](./645-set-mismatch) | Easy |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 
 ## Math
@@ -119,6 +122,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [169-Majority Element](./169-majority-element) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
+| [645-Set Mismatch](./645-set-mismatch) | Easy |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
@@ -145,4 +149,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 12**
+**Total Problems Solved: 13**
