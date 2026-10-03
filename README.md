@@ -9,6 +9,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [1-Two Sum](./1-two-sum) | Easy |
+| [15-3Sum](./15-3sum) | Medium |
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [48-Rotate Image](./48-rotate-image) | Medium |
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
@@ -119,6 +120,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [15-3Sum](./15-3sum) | Medium |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
@@ -143,10 +145,11 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [15-3Sum](./15-3sum) | Medium |
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [344-Reverse String](./344-reverse-string) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
 ## Progress
 
-**Total Problems Solved: 13**
+**Total Problems Solved: 14**
