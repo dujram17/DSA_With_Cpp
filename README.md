@@ -9,6 +9,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [1-Two Sum](./1-two-sum) | Easy |
+| [11-Container With Most Water](./11-container-with-most-water) | Medium |
 | [15-3Sum](./15-3sum) | Medium |
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [48-Rotate Image](./48-rotate-image) | Medium |
@@ -71,6 +72,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
+
+## Greedy
+
+| Problem Name | Difficulty |
+|---|---|
+| [11-Container With Most Water](./11-container-with-most-water) | Medium |
 
 ## Hash Table
 
@@ -145,6 +152,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [11-Container With Most Water](./11-container-with-most-water) | Medium |
 | [15-3Sum](./15-3sum) | Medium |
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [344-Reverse String](./344-reverse-string) | Easy |
@@ -152,4 +160,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 14**
+**Total Problems Solved: 15**
