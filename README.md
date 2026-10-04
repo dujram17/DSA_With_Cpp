@@ -14,6 +14,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [48-Rotate Image](./48-rotate-image) | Medium |
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
+| [75-Sort Colors](./75-sort-colors) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
 | [136-Single Number](./136-single-number) | Easy |
 | [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
@@ -50,6 +51,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [75-Sort Colors](./75-sort-colors) | Medium |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 
 ## Counting
@@ -122,6 +124,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [75-Sort Colors](./75-sort-colors) | Medium |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 
 ## Simulation
@@ -135,6 +138,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [15-3Sum](./15-3sum) | Medium |
+| [75-Sort Colors](./75-sort-colors) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
@@ -163,10 +167,11 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [11-Container With Most Water](./11-container-with-most-water) | Medium |
 | [15-3Sum](./15-3sum) | Medium |
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
+| [75-Sort Colors](./75-sort-colors) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
 | [344-Reverse String](./344-reverse-string) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
 ## Progress
 
-**Total Problems Solved: 18**
+**Total Problems Solved: 19**
