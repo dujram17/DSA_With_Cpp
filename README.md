@@ -20,6 +20,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
+| [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [540-Single Element in a Sorted Array](./540-single-element-in-a-sorted-array) | Medium |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
@@ -32,6 +33,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [268-Missing Number](./268-missing-number) | Easy |
+| [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [540-Single Element in a Sorted Array](./540-single-element-in-a-sorted-array) | Medium |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
@@ -41,6 +43,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [136-Single Number](./136-single-number) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
+| [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 
 ## Boyer–Moore Majority Vote Algorithm
@@ -80,6 +83,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
+
+## Floyd's Cycle Finding Algorithm
+
+| Problem Name | Difficulty |
+|---|---|
+| [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 
 ## Greedy
 
@@ -121,6 +130,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
+
+## Pigeonhole Principle
+
+| Problem Name | Difficulty |
+|---|---|
+| [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 
 ## Quicksort
 
@@ -171,9 +186,10 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [75-Sort Colors](./75-sort-colors) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
+| [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [344-Reverse String](./344-reverse-string) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
 ## Progress
 
-**Total Problems Solved: 20**
+**Total Problems Solved: 21**
