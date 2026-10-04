@@ -16,6 +16,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
 | [136-Single Number](./136-single-number) | Easy |
+| [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
@@ -74,6 +75,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
+| [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
 
 ## Greedy
 
@@ -167,4 +169,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 17**
+**Total Problems Solved: 18**
