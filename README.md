@@ -22,6 +22,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
+| [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
 
 ## Binary Search
 
@@ -90,6 +91,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [268-Missing Number](./268-missing-number) | Easy |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
+| [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
 
 ## Math
 
@@ -97,6 +99,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [48-Rotate Image](./48-rotate-image) | Medium |
 | [268-Missing Number](./268-missing-number) | Easy |
+| [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
 
 ## Matrix
 
@@ -105,6 +108,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [48-Rotate Image](./48-rotate-image) | Medium |
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
+| [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
 
 ## Monotonic Stack
 
@@ -163,4 +167,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 16**
+**Total Problems Solved: 17**
