@@ -20,6 +20,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
+| [540-Single Element in a Sorted Array](./540-single-element-in-a-sorted-array) | Medium |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
@@ -31,6 +32,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [268-Missing Number](./268-missing-number) | Easy |
+| [540-Single Element in a Sorted Array](./540-single-element-in-a-sorted-array) | Medium |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
 ## Bit Manipulation
@@ -174,4 +176,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 19**
+**Total Problems Solved: 20**
