@@ -23,6 +23,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [540-Single Element in a Sorted Array](./540-single-element-in-a-sorted-array) | Medium |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
+| [792-Binary Search](./792-binary-search) | Easy |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
@@ -35,6 +36,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [268-Missing Number](./268-missing-number) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [540-Single Element in a Sorted Array](./540-single-element-in-a-sorted-array) | Medium |
+| [792-Binary Search](./792-binary-search) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
 ## Bit Manipulation
@@ -194,4 +196,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 22**
+**Total Problems Solved: 23**
