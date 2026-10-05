@@ -174,6 +174,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [151-Reverse Words in a String](./151-reverse-words-in-a-string) | Medium |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [344-Reverse String](./344-reverse-string) | Easy |
 
@@ -186,10 +187,11 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [75-Sort Colors](./75-sort-colors) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
+| [151-Reverse Words in a String](./151-reverse-words-in-a-string) | Medium |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [344-Reverse String](./344-reverse-string) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
 ## Progress
 
-**Total Problems Solved: 21**
+**Total Problems Solved: 22**
