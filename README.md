@@ -117,6 +117,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [48-Rotate Image](./48-rotate-image) | Medium |
 | [268-Missing Number](./268-missing-number) | Easy |
+| [507-Perfect Number](./507-perfect-number) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
 
 ## Matrix
@@ -199,4 +200,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 25**
+**Total Problems Solved: 26**
