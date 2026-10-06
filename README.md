@@ -12,6 +12,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [11-Container With Most Water](./11-container-with-most-water) | Medium |
 | [15-3Sum](./15-3sum) | Medium |
 | [26-Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array) | Easy |
+| [27-Remove Element](./27-remove-element) | Easy |
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [48-Rotate Image](./48-rotate-image) | Medium |
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
@@ -191,6 +192,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [11-Container With Most Water](./11-container-with-most-water) | Medium |
 | [15-3Sum](./15-3sum) | Medium |
 | [26-Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array) | Easy |
+| [27-Remove Element](./27-remove-element) | Easy |
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [75-Sort Colors](./75-sort-colors) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
@@ -202,4 +204,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 27**
+**Total Problems Solved: 28**
