@@ -179,6 +179,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [151-Reverse Words in a String](./151-reverse-words-in-a-string) | Medium |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [344-Reverse String](./344-reverse-string) | Easy |
+| [742-To Lower Case](./742-to-lower-case) | Easy |
 
 ## Two Pointers
 
@@ -196,4 +197,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 23**
+**Total Problems Solved: 24**
