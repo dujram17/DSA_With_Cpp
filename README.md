@@ -10,6 +10,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [1-Two Sum](./1-two-sum) | Easy |
 | [11-Container With Most Water](./11-container-with-most-water) | Medium |
+| [14-Longest Common Prefix](./14-longest-common-prefix) | Easy |
 | [15-3Sum](./15-3sum) | Medium |
 | [26-Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array) | Easy |
 | [27-Remove Element](./27-remove-element) | Easy |
@@ -180,10 +181,17 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [14-Longest Common Prefix](./14-longest-common-prefix) | Easy |
 | [151-Reverse Words in a String](./151-reverse-words-in-a-string) | Medium |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [344-Reverse String](./344-reverse-string) | Easy |
 | [742-To Lower Case](./742-to-lower-case) | Easy |
+
+## Trie
+
+| Problem Name | Difficulty |
+|---|---|
+| [14-Longest Common Prefix](./14-longest-common-prefix) | Easy |
 
 ## Two Pointers
 
@@ -204,4 +212,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 28**
+**Total Problems Solved: 29**
