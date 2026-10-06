@@ -20,6 +20,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
+| [283-Move Zeroes](./283-move-zeroes) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [540-Single Element in a Sorted Array](./540-single-element-in-a-sorted-array) | Medium |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
@@ -191,10 +192,11 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [75-Sort Colors](./75-sort-colors) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
 | [151-Reverse Words in a String](./151-reverse-words-in-a-string) | Medium |
+| [283-Move Zeroes](./283-move-zeroes) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [344-Reverse String](./344-reverse-string) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
 ## Progress
 
-**Total Problems Solved: 24**
+**Total Problems Solved: 25**
