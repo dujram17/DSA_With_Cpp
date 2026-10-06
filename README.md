@@ -14,6 +14,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [15-3Sum](./15-3sum) | Medium |
 | [26-Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array) | Easy |
 | [27-Remove Element](./27-remove-element) | Easy |
+| [41-First Missing Positive](./41-first-missing-positive) | Hard |
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [48-Rotate Image](./48-rotate-image) | Medium |
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
@@ -107,6 +108,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [1-Two Sum](./1-two-sum) | Easy |
+| [41-First Missing Positive](./41-first-missing-positive) | Hard |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
@@ -212,4 +214,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 29**
+**Total Problems Solved: 30**
