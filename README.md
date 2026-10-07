@@ -111,6 +111,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [1-Two Sum](./1-two-sum) | Easy |
 | [41-First Missing Positive](./41-first-missing-positive) | Hard |
 | [169-Majority Element](./169-majority-element) | Easy |
+| [205-Isomorphic Strings](./205-isomorphic-strings) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
@@ -195,6 +196,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [14-Longest Common Prefix](./14-longest-common-prefix) | Easy |
 | [151-Reverse Words in a String](./151-reverse-words-in-a-string) | Medium |
+| [205-Isomorphic Strings](./205-isomorphic-strings) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [344-Reverse String](./344-reverse-string) | Easy |
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
@@ -225,4 +227,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 32**
+**Total Problems Solved: 33**
