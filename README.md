@@ -50,6 +50,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [136-Single Number](./136-single-number) | Easy |
+| [231-Power of Two](./231-power-of-two) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
@@ -124,6 +125,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [48-Rotate Image](./48-rotate-image) | Medium |
 | [69-Sqrt(x)](./69-sqrtx) | Easy |
+| [231-Power of Two](./231-power-of-two) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 | [507-Perfect Number](./507-perfect-number) | Easy |
@@ -162,6 +164,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [75-Sort Colors](./75-sort-colors) | Medium |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
+
+## Recursion
+
+| Problem Name | Difficulty |
+|---|---|
+| [231-Power of Two](./231-power-of-two) | Easy |
 
 ## Simulation
 
@@ -227,4 +235,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 33**
+**Total Problems Solved: 34**
