@@ -4,11 +4,6 @@ public:
         if(n<=0){
             return false;
         }
-        if(!(n & (n-1))){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return (n & (n-1))==0;
     }
 };
