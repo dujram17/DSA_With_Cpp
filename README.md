@@ -127,6 +127,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [48-Rotate Image](./48-rotate-image) | Medium |
+| [50-Pow(x, n)](./50-powx-n) | Medium |
 | [69-Sqrt(x)](./69-sqrtx) | Easy |
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
@@ -174,6 +175,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [50-Pow(x, n)](./50-powx-n) | Medium |
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [326-Power of Three](./326-power-of-three) | Easy |
 | [342-Power of Four](./342-power-of-four) | Easy |
@@ -242,4 +244,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 37**
+**Total Problems Solved: 38**
