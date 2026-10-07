@@ -129,6 +129,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [69-Sqrt(x)](./69-sqrtx) | Easy |
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
+| [326-Power of Three](./326-power-of-three) | Easy |
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 | [507-Perfect Number](./507-perfect-number) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
@@ -172,6 +173,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [231-Power of Two](./231-power-of-two) | Easy |
+| [326-Power of Three](./326-power-of-three) | Easy |
 
 ## Simulation
 
@@ -237,4 +239,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 35**
+**Total Problems Solved: 36**
