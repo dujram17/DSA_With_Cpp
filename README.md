@@ -54,6 +54,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
+| [342-Power of Four](./342-power-of-four) | Easy |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 
 ## Boyer–Moore Majority Vote Algorithm
@@ -130,6 +131,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [326-Power of Three](./326-power-of-three) | Easy |
+| [342-Power of Four](./342-power-of-four) | Easy |
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 | [507-Perfect Number](./507-perfect-number) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
@@ -174,6 +176,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [326-Power of Three](./326-power-of-three) | Easy |
+| [342-Power of Four](./342-power-of-four) | Easy |
 
 ## Simulation
 
@@ -239,4 +242,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 36**
+**Total Problems Solved: 37**
