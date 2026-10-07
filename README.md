@@ -124,6 +124,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [48-Rotate Image](./48-rotate-image) | Medium |
 | [69-Sqrt(x)](./69-sqrtx) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
+| [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 | [507-Perfect Number](./507-perfect-number) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
 
@@ -166,6 +167,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
+| [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 
 ## Sorting
 
@@ -195,6 +197,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [151-Reverse Words in a String](./151-reverse-words-in-a-string) | Medium |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [344-Reverse String](./344-reverse-string) | Easy |
+| [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 | [742-To Lower Case](./742-to-lower-case) | Easy |
 
 ## Trie
@@ -222,4 +225,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 31**
+**Total Problems Solved: 32**
