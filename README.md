@@ -50,6 +50,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [136-Single Number](./136-single-number) | Easy |
+| [191-Number of 1 Bits](./191-number-of-1-bits) | Easy |
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
@@ -85,6 +86,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [169-Majority Element](./169-majority-element) | Easy |
+| [191-Number of 1 Bits](./191-number-of-1-bits) | Easy |
 
 ## Dynamic Programming
 
@@ -235,4 +237,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 34**
+**Total Problems Solved: 35**
