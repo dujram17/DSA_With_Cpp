@@ -38,6 +38,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [69-Sqrt(x)](./69-sqrtx) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [540-Single Element in a Sorted Array](./540-single-element-in-a-sorted-array) | Medium |
@@ -121,6 +122,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [48-Rotate Image](./48-rotate-image) | Medium |
+| [69-Sqrt(x)](./69-sqrtx) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [507-Perfect Number](./507-perfect-number) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
@@ -139,6 +141,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
+
+## Newton's Method
+
+| Problem Name | Difficulty |
+|---|---|
+| [69-Sqrt(x)](./69-sqrtx) | Easy |
 
 ## Pigeonhole Principle
 
@@ -214,4 +222,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 30**
+**Total Problems Solved: 31**
