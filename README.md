@@ -23,6 +23,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [136-Single Number](./136-single-number) | Easy |
 | [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
 | [169-Majority Element](./169-majority-element) | Easy |
+| [189-Rotate Array](./189-rotate-array) | Medium |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [283-Move Zeroes](./283-move-zeroes) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
@@ -129,6 +130,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [48-Rotate Image](./48-rotate-image) | Medium |
 | [50-Pow(x, n)](./50-powx-n) | Medium |
 | [69-Sqrt(x)](./69-sqrtx) | Easy |
+| [189-Rotate Array](./189-rotate-array) | Medium |
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [326-Power of Three](./326-power-of-three) | Easy |
@@ -237,6 +239,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [75-Sort Colors](./75-sort-colors) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
 | [151-Reverse Words in a String](./151-reverse-words-in-a-string) | Medium |
+| [189-Rotate Array](./189-rotate-array) | Medium |
 | [283-Move Zeroes](./283-move-zeroes) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [344-Reverse String](./344-reverse-string) | Easy |
@@ -244,4 +247,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 38**
+**Total Problems Solved: 39**
