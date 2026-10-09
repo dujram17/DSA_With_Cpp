@@ -134,6 +134,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [69-Sqrt(x)](./69-sqrtx) | Easy |
 | [189-Rotate Array](./189-rotate-array) | Medium |
 | [231-Power of Two](./231-power-of-two) | Easy |
+| [258-Add Digits](./258-add-digits) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [326-Power of Three](./326-power-of-three) | Easy |
 | [342-Power of Four](./342-power-of-four) | Easy |
@@ -162,6 +163,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [69-Sqrt(x)](./69-sqrtx) | Easy |
 
+## Number Theory
+
+| Problem Name | Difficulty |
+|---|---|
+| [258-Add Digits](./258-add-digits) | Easy |
+
 ## Pigeonhole Principle
 
 | Problem Name | Difficulty |
@@ -189,6 +196,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
+| [258-Add Digits](./258-add-digits) | Easy |
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 
 ## Sorting
@@ -249,4 +257,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 40**
+**Total Problems Solved: 41**
