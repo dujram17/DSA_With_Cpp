@@ -55,6 +55,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
+| [338-Counting Bits](./338-counting-bits) | Easy |
 | [342-Power of Four](./342-power-of-four) | Easy |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 
@@ -96,6 +97,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
+| [338-Counting Bits](./338-counting-bits) | Easy |
 
 ## Floyd's Cycle Finding Algorithm
 
@@ -247,4 +249,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 39**
+**Total Problems Solved: 40**
