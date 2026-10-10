@@ -237,6 +237,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [344-Reverse String](./344-reverse-string) | Easy |
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 | [742-To Lower Case](./742-to-lower-case) | Easy |
+| [953-Reverse Only Letters](./953-reverse-only-letters) | Easy |
 
 ## Trie
 
@@ -260,8 +261,9 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [283-Move Zeroes](./283-move-zeroes) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [344-Reverse String](./344-reverse-string) | Easy |
+| [953-Reverse Only Letters](./953-reverse-only-letters) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
 ## Progress
 
-**Total Problems Solved: 42**
+**Total Problems Solved: 43**
