@@ -125,6 +125,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
 
+## Linked List
+
+| Problem Name | Difficulty |
+|---|---|
+| [206-Reverse Linked List](./206-reverse-linked-list) | Easy |
+
 ## Math
 
 | Problem Name | Difficulty |
@@ -187,6 +193,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [50-Pow(x, n)](./50-powx-n) | Medium |
+| [206-Reverse Linked List](./206-reverse-linked-list) | Easy |
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [326-Power of Three](./326-power-of-three) | Easy |
 | [342-Power of Four](./342-power-of-four) | Easy |
@@ -257,4 +264,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 41**
+**Total Problems Solved: 42**
