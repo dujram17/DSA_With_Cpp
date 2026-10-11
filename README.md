@@ -146,6 +146,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [342-Power of Four](./342-power-of-four) | Easy |
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 | [507-Perfect Number](./507-perfect-number) | Easy |
+| [1630-Count Odd Numbers in an Interval Range](./1630-count-odd-numbers-in-an-interval-range) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
 
 ## Matrix
@@ -266,4 +267,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 43**
+**Total Problems Solved: 44**
