@@ -141,6 +141,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [189-Rotate Array](./189-rotate-array) | Medium |
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [258-Add Digits](./258-add-digits) | Easy |
+| [263-Ugly Number](./263-ugly-number) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [326-Power of Three](./326-power-of-three) | Easy |
 | [342-Power of Four](./342-power-of-four) | Easy |
@@ -267,4 +268,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 44**
+**Total Problems Solved: 45**
