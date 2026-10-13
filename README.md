@@ -65,6 +65,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [169-Majority Element](./169-majority-element) | Easy |
 
+## Boyer–Moore String-Search Algorithm
+
+| Problem Name | Difficulty |
+|---|---|
+| [28-Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
+
 ## Bubble Sort
 
 | Problem Name | Difficulty |
@@ -124,6 +130,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
+
+## Knuth–Morris–Pratt Algorithm
+
+| Problem Name | Difficulty |
+|---|---|
+| [28-Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
 
 ## Linked List
 
@@ -233,6 +245,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [14-Longest Common Prefix](./14-longest-common-prefix) | Easy |
+| [28-Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
 | [151-Reverse Words in a String](./151-reverse-words-in-a-string) | Medium |
 | [205-Isomorphic Strings](./205-isomorphic-strings) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
@@ -240,6 +253,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 | [742-To Lower Case](./742-to-lower-case) | Easy |
 | [953-Reverse Only Letters](./953-reverse-only-letters) | Easy |
+
+## String Matching
+
+| Problem Name | Difficulty |
+|---|---|
+| [28-Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
 
 ## Trie
 
@@ -255,6 +274,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [15-3Sum](./15-3sum) | Medium |
 | [26-Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array) | Easy |
 | [27-Remove Element](./27-remove-element) | Easy |
+| [28-Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [75-Sort Colors](./75-sort-colors) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
@@ -266,6 +286,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [953-Reverse Only Letters](./953-reverse-only-letters) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
+## Z Algorithm
+
+| Problem Name | Difficulty |
+|---|---|
+| [28-Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
+
 ## Progress
 
-**Total Problems Solved: 45**
+**Total Problems Solved: 46**
