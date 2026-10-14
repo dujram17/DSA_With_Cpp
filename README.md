@@ -150,6 +150,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [48-Rotate Image](./48-rotate-image) | Medium |
 | [50-Pow(x, n)](./50-powx-n) | Medium |
 | [69-Sqrt(x)](./69-sqrtx) | Easy |
+| [172-Factorial Trailing Zeroes](./172-factorial-trailing-zeroes) | Medium |
 | [189-Rotate Array](./189-rotate-array) | Medium |
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [258-Add Digits](./258-add-digits) | Easy |
@@ -294,4 +295,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 46**
+**Total Problems Solved: 47**
