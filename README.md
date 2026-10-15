@@ -57,6 +57,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [338-Counting Bits](./338-counting-bits) | Easy |
 | [342-Power of Four](./342-power-of-four) | Easy |
+| [389-Find the Difference](./389-find-the-difference) | Easy |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 
 ## Boyer–Moore Majority Vote Algorithm
@@ -127,6 +128,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [205-Isomorphic Strings](./205-isomorphic-strings) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
+| [389-Find the Difference](./389-find-the-difference) | Easy |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
@@ -231,6 +233,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [169-Majority Element](./169-majority-element) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
+| [389-Find the Difference](./389-find-the-difference) | Easy |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
@@ -251,6 +254,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [205-Isomorphic Strings](./205-isomorphic-strings) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [344-Reverse String](./344-reverse-string) | Easy |
+| [389-Find the Difference](./389-find-the-difference) | Easy |
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 | [742-To Lower Case](./742-to-lower-case) | Easy |
 | [953-Reverse Only Letters](./953-reverse-only-letters) | Easy |
@@ -295,4 +299,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 47**
+**Total Problems Solved: 48**
