@@ -42,6 +42,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [69-Sqrt(x)](./69-sqrtx) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
+| [441-Arranging Coins](./441-arranging-coins) | Easy |
 | [540-Single Element in a Sorted Array](./540-single-element-in-a-sorted-array) | Medium |
 | [792-Binary Search](./792-binary-search) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
@@ -180,6 +181,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [326-Power of Three](./326-power-of-three) | Easy |
 | [342-Power of Four](./342-power-of-four) | Easy |
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
+| [441-Arranging Coins](./441-arranging-coins) | Easy |
 | [507-Perfect Number](./507-perfect-number) | Easy |
 | [1630-Count Odd Numbers in an Interval Range](./1630-count-odd-numbers-in-an-interval-range) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
@@ -330,4 +332,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 49**
+**Total Problems Solved: 50**
