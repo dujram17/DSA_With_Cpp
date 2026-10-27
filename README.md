@@ -72,6 +72,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [28-Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
 
+## Brainteaser
+
+| Problem Name | Difficulty |
+|---|---|
+| [292-Nim Game](./292-nim-game) | Easy |
+
 ## Bubble Sort
 
 | Problem Name | Difficulty |
@@ -112,6 +118,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 
+## Game Theory
+
+| Problem Name | Difficulty |
+|---|---|
+| [292-Nim Game](./292-nim-game) | Easy |
+
 ## Greedy
 
 | Problem Name | Difficulty |
@@ -132,6 +144,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
+
+## Impartial Game
+
+| Problem Name | Difficulty |
+|---|---|
+| [292-Nim Game](./292-nim-game) | Easy |
 
 ## Knuth–Morris–Pratt Algorithm
 
@@ -158,6 +176,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [258-Add Digits](./258-add-digits) | Easy |
 | [263-Ugly Number](./263-ugly-number) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
+| [292-Nim Game](./292-nim-game) | Easy |
 | [326-Power of Three](./326-power-of-three) | Easy |
 | [342-Power of Four](./342-power-of-four) | Easy |
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
@@ -174,6 +193,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
 
+## Minimax
+
+| Problem Name | Difficulty |
+|---|---|
+| [292-Nim Game](./292-nim-game) | Easy |
+
 ## Monotonic Stack
 
 | Problem Name | Difficulty |
@@ -185,6 +210,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [69-Sqrt(x)](./69-sqrtx) | Easy |
+
+## Nim Game
+
+| Problem Name | Difficulty |
+|---|---|
+| [292-Nim Game](./292-nim-game) | Easy |
 
 ## Number Theory
 
@@ -299,4 +330,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 48**
+**Total Problems Solved: 49**
