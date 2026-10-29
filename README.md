@@ -112,6 +112,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
 | [338-Counting Bits](./338-counting-bits) | Easy |
+| [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
 
 ## Floyd's Cycle Finding Algorithm
 
@@ -183,6 +184,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 | [441-Arranging Coins](./441-arranging-coins) | Easy |
 | [507-Perfect Number](./507-perfect-number) | Easy |
+| [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
 | [1630-Count Odd Numbers in an Interval Range](./1630-count-odd-numbers-in-an-interval-range) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
 
@@ -194,6 +196,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
+
+## Memoization
+
+| Problem Name | Difficulty |
+|---|---|
+| [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
 
 ## Minimax
 
@@ -247,6 +255,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [326-Power of Three](./326-power-of-three) | Easy |
 | [342-Power of Four](./342-power-of-four) | Easy |
+| [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
 
 ## Simulation
 
@@ -332,4 +341,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 50**
+**Total Problems Solved: 51**
