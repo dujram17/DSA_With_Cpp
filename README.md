@@ -110,6 +110,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
+| [70-Climbing Stairs](./70-climbing-stairs) | Easy |
 | [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
 | [338-Counting Bits](./338-counting-bits) | Easy |
 | [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
@@ -172,6 +173,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [48-Rotate Image](./48-rotate-image) | Medium |
 | [50-Pow(x, n)](./50-powx-n) | Medium |
 | [69-Sqrt(x)](./69-sqrtx) | Easy |
+| [70-Climbing Stairs](./70-climbing-stairs) | Easy |
 | [172-Factorial Trailing Zeroes](./172-factorial-trailing-zeroes) | Medium |
 | [189-Rotate Array](./189-rotate-array) | Medium |
 | [231-Power of Two](./231-power-of-two) | Easy |
@@ -201,6 +203,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [70-Climbing Stairs](./70-climbing-stairs) | Easy |
 | [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
 
 ## Minimax
@@ -341,4 +344,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 51**
+**Total Problems Solved: 52**
