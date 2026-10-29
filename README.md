@@ -14,6 +14,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [15-3Sum](./15-3sum) | Medium |
 | [26-Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array) | Easy |
 | [27-Remove Element](./27-remove-element) | Easy |
+| [31-Next Permutation](./31-next-permutation) | Medium |
 | [41-First Missing Positive](./41-first-missing-positive) | Hard |
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [48-Rotate Image](./48-rotate-image) | Medium |
@@ -325,6 +326,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [26-Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array) | Easy |
 | [27-Remove Element](./27-remove-element) | Easy |
 | [28-Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
+| [31-Next Permutation](./31-next-permutation) | Medium |
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [75-Sort Colors](./75-sort-colors) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
@@ -344,4 +346,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 52**
+**Total Problems Solved: 53**
