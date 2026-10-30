@@ -296,6 +296,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [14-Longest Common Prefix](./14-longest-common-prefix) | Easy |
 | [28-Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
+| [38-Count and Say](./38-count-and-say) | Medium |
 | [151-Reverse Words in a String](./151-reverse-words-in-a-string) | Medium |
 | [205-Isomorphic Strings](./205-isomorphic-strings) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
@@ -346,4 +347,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 53**
+**Total Problems Solved: 54**
