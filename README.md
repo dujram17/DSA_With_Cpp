@@ -48,6 +48,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [792-Binary Search](./792-binary-search) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
+## Binary Tree
+
+| Problem Name | Difficulty |
+|---|---|
+| [2384-Root Equals Sum of Children](./2384-root-equals-sum-of-children) | Easy |
+
 ## Bit Manipulation
 
 | Problem Name | Difficulty |
@@ -314,6 +320,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [28-Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
 
+## Tree
+
+| Problem Name | Difficulty |
+|---|---|
+| [2384-Root Equals Sum of Children](./2384-root-equals-sum-of-children) | Easy |
+
 ## Trie
 
 | Problem Name | Difficulty |
@@ -349,4 +361,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 56**
+**Total Problems Solved: 57**
