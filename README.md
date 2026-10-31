@@ -190,6 +190,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
 | [1630-Count Odd Numbers in an Interval Range](./1630-count-odd-numbers-in-an-interval-range) | Easy |
 | [2383-Add Two Integers](./2383-add-two-integers) | Easy |
+| [2556-Convert the Temperature](./2556-convert-the-temperature) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
 
 ## Matrix
@@ -348,4 +349,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 55**
+**Total Problems Solved: 56**
