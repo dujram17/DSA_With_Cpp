@@ -199,6 +199,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [2383-Add Two Integers](./2383-add-two-integers) | Easy |
 | [2556-Convert the Temperature](./2556-convert-the-temperature) | Easy |
 | [2752-Sum Multiples](./2752-sum-multiples) | Easy |
+| [2812-Find the Maximum Achievable Number](./2812-find-the-maximum-achievable-number) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
 
 ## Matrix
@@ -363,4 +364,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 59**
+**Total Problems Solved: 60**
