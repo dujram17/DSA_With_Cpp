@@ -194,6 +194,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [441-Arranging Coins](./441-arranging-coins) | Easy |
 | [507-Perfect Number](./507-perfect-number) | Easy |
 | [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
+| [1406-Subtract the Product and Sum of Digits of an Integer](./1406-subtract-the-product-and-sum-of-digits-of-an-integer) | Easy |
 | [1630-Count Odd Numbers in an Interval Range](./1630-count-odd-numbers-in-an-interval-range) | Easy |
 | [2238-A Number After a Double Reversal](./2238-a-number-after-a-double-reversal) | Easy |
 | [2383-Add Two Integers](./2383-add-two-integers) | Easy |
@@ -364,4 +365,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 60**
+**Total Problems Solved: 61**
