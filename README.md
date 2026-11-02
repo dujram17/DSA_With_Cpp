@@ -202,6 +202,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [2752-Sum Multiples](./2752-sum-multiples) | Easy |
 | [2812-Find the Maximum Achievable Number](./2812-find-the-maximum-achievable-number) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
+| [3371-Harshad Number](./3371-harshad-number) | Easy |
 
 ## Matrix
 
@@ -365,4 +366,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 61**
+**Total Problems Solved: 62**
