@@ -68,6 +68,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [342-Power of Four](./342-power-of-four) | Easy |
 | [389-Find the Difference](./389-find-the-difference) | Easy |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
+| [1444-Number of Steps to Reduce a Number to Zero](./1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
 
 ## Boyer–Moore Majority Vote Algorithm
 
@@ -210,6 +211,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [507-Perfect Number](./507-perfect-number) | Easy |
 | [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
 | [1406-Subtract the Product and Sum of Digits of an Integer](./1406-subtract-the-product-and-sum-of-digits-of-an-integer) | Easy |
+| [1444-Number of Steps to Reduce a Number to Zero](./1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
 | [1630-Count Odd Numbers in an Interval Range](./1630-count-odd-numbers-in-an-interval-range) | Easy |
 | [2238-A Number After a Double Reversal](./2238-a-number-after-a-double-reversal) | Easy |
 | [2383-Add Two Integers](./2383-add-two-integers) | Easy |
@@ -394,4 +396,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 63**
+**Total Problems Solved: 64**
