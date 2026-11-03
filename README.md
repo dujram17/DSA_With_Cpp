@@ -31,6 +31,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [540-Single Element in a Sorted Array](./540-single-element-in-a-sorted-array) | Medium |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 | [792-Binary Search](./792-binary-search) | Easy |
+| [948-Sort an Array](./948-sort-an-array) | Medium |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
@@ -93,6 +94,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [75-Sort Colors](./75-sort-colors) | Medium |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 
+## Bucket Sort
+
+| Problem Name | Difficulty |
+|---|---|
+| [948-Sort an Array](./948-sort-an-array) | Medium |
+
 ## Counting
 
 | Problem Name | Difficulty |
@@ -103,6 +110,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [948-Sort an Array](./948-sort-an-array) | Medium |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 
 ## Divide and Conquer
@@ -111,6 +119,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [169-Majority Element](./169-majority-element) | Easy |
 | [191-Number of 1 Bits](./191-number-of-1-bits) | Easy |
+| [948-Sort an Array](./948-sort-an-array) | Medium |
 
 ## Dynamic Programming
 
@@ -154,6 +163,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
+
+## Heap (Priority Queue)
+
+| Problem Name | Difficulty |
+|---|---|
+| [948-Sort an Array](./948-sort-an-array) | Medium |
 
 ## Impartial Game
 
@@ -220,6 +235,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [70-Climbing Stairs](./70-climbing-stairs) | Easy |
 | [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
 
+## Merge Sort
+
+| Problem Name | Difficulty |
+|---|---|
+| [948-Sort an Array](./948-sort-an-array) | Medium |
+
 ## Minimax
 
 | Problem Name | Difficulty |
@@ -263,6 +284,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [75-Sort Colors](./75-sort-colors) | Medium |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 
+## Radix Sort
+
+| Problem Name | Difficulty |
+|---|---|
+| [948-Sort an Array](./948-sort-an-array) | Medium |
+
 ## Recursion
 
 | Problem Name | Difficulty |
@@ -294,6 +321,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [268-Missing Number](./268-missing-number) | Easy |
 | [389-Find the Difference](./389-find-the-difference) | Easy |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
+| [948-Sort an Array](./948-sort-an-array) | Medium |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
@@ -366,4 +394,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 62**
+**Total Problems Solved: 63**
