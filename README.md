@@ -15,6 +15,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [26-Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array) | Easy |
 | [27-Remove Element](./27-remove-element) | Easy |
 | [31-Next Permutation](./31-next-permutation) | Medium |
+| [33-Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array) | Medium |
 | [41-First Missing Positive](./41-first-missing-positive) | Hard |
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [48-Rotate Image](./48-rotate-image) | Medium |
@@ -41,6 +42,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [33-Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array) | Medium |
 | [69-Sqrt(x)](./69-sqrtx) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
@@ -397,4 +399,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 65**
+**Total Problems Solved: 66**
