@@ -9,6 +9,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [1-Two Sum](./1-two-sum) | Easy |
+| [4-Median of Two Sorted Arrays](./4-median-of-two-sorted-arrays) | Hard |
 | [11-Container With Most Water](./11-container-with-most-water) | Medium |
 | [14-Longest Common Prefix](./14-longest-common-prefix) | Easy |
 | [15-3Sum](./15-3sum) | Medium |
@@ -43,6 +44,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [4-Median of Two Sorted Arrays](./4-median-of-two-sorted-arrays) | Hard |
 | [33-Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array) | Medium |
 | [69-Sqrt(x)](./69-sqrtx) | Easy |
 | [81-Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii) | Medium |
@@ -122,6 +124,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [4-Median of Two Sorted Arrays](./4-median-of-two-sorted-arrays) | Hard |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [191-Number of 1 Bits](./191-number-of-1-bits) | Easy |
 | [948-Sort an Array](./948-sort-an-array) | Medium |
@@ -401,4 +404,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 67**
+**Total Problems Solved: 68**
