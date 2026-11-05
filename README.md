@@ -26,6 +26,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
 | [136-Single Number](./136-single-number) | Easy |
 | [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
+| [153-Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array) | Medium |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [189-Rotate Array](./189-rotate-array) | Medium |
 | [268-Missing Number](./268-missing-number) | Easy |
@@ -48,6 +49,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [33-Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array) | Medium |
 | [69-Sqrt(x)](./69-sqrtx) | Easy |
 | [81-Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii) | Medium |
+| [153-Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array) | Medium |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [441-Arranging Coins](./441-arranging-coins) | Easy |
@@ -404,4 +406,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 68**
+**Total Problems Solved: 69**
