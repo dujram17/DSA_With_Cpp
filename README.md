@@ -25,6 +25,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [81-Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
 | [136-Single Number](./136-single-number) | Easy |
+| [137-Single Number II](./137-single-number-ii) | Medium |
 | [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
 | [153-Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array) | Medium |
 | [154-Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii) | Hard |
@@ -59,17 +60,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [792-Binary Search](./792-binary-search) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 
-## Binary Tree
-
-| Problem Name | Difficulty |
-|---|---|
-| [2384-Root Equals Sum of Children](./2384-root-equals-sum-of-children) | Easy |
-
 ## Bit Manipulation
 
 | Problem Name | Difficulty |
 |---|---|
 | [136-Single Number](./136-single-number) | Easy |
+| [137-Single Number II](./137-single-number-ii) | Medium |
 | [191-Number of 1 Bits](./191-number-of-1-bits) | Easy |
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
@@ -366,12 +362,6 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [28-Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
-
-## Tree
-
-| Problem Name | Difficulty |
-|---|---|
-| [2384-Root Equals Sum of Children](./2384-root-equals-sum-of-children) | Easy |
 
 ## Trie
 
