@@ -13,6 +13,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [11-Container With Most Water](./11-container-with-most-water) | Medium |
 | [14-Longest Common Prefix](./14-longest-common-prefix) | Easy |
 | [15-3Sum](./15-3sum) | Medium |
+| [16-3Sum Closest](./16-3sum-closest) | Medium |
 | [26-Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array) | Easy |
 | [27-Remove Element](./27-remove-element) | Easy |
 | [31-Next Permutation](./31-next-permutation) | Medium |
@@ -59,6 +60,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [540-Single Element in a Sorted Array](./540-single-element-in-a-sorted-array) | Medium |
 | [792-Binary Search](./792-binary-search) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
+
+## Binary Tree
+
+| Problem Name | Difficulty |
+|---|---|
+| [2384-Root Equals Sum of Children](./2384-root-equals-sum-of-children) | Easy |
 
 ## Bit Manipulation
 
@@ -324,6 +331,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [15-3Sum](./15-3sum) | Medium |
+| [16-3Sum Closest](./16-3sum-closest) | Medium |
 | [75-Sort Colors](./75-sort-colors) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
 | [169-Majority Element](./169-majority-element) | Easy |
@@ -363,6 +371,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [28-Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
 
+## Tree
+
+| Problem Name | Difficulty |
+|---|---|
+| [2384-Root Equals Sum of Children](./2384-root-equals-sum-of-children) | Easy |
+
 ## Trie
 
 | Problem Name | Difficulty |
@@ -375,6 +389,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [11-Container With Most Water](./11-container-with-most-water) | Medium |
 | [15-3Sum](./15-3sum) | Medium |
+| [16-3Sum Closest](./16-3sum-closest) | Medium |
 | [26-Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array) | Easy |
 | [27-Remove Element](./27-remove-element) | Easy |
 | [28-Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
@@ -398,4 +413,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 70**
+**Total Problems Solved: 72**
