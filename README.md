@@ -32,6 +32,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [154-Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii) | Hard |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [189-Rotate Array](./189-rotate-array) | Medium |
+| [260-Single Number III](./260-single-number-iii) | Medium |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [283-Move Zeroes](./283-move-zeroes) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
@@ -75,6 +76,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [137-Single Number II](./137-single-number-ii) | Medium |
 | [191-Number of 1 Bits](./191-number-of-1-bits) | Easy |
 | [231-Power of Two](./231-power-of-two) | Easy |
+| [260-Single Number III](./260-single-number-iii) | Medium |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [338-Counting Bits](./338-counting-bits) | Easy |
@@ -413,4 +415,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 72**
+**Total Problems Solved: 73**
