@@ -20,6 +20,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [33-Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array) | Medium |
 | [41-First Missing Positive](./41-first-missing-positive) | Hard |
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
+| [46-Permutations](./46-permutations) | Medium |
 | [48-Rotate Image](./48-rotate-image) | Medium |
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
 | [75-Sort Colors](./75-sort-colors) | Medium |
@@ -44,6 +45,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
+
+## Backtracking
+
+| Problem Name | Difficulty |
+|---|---|
+| [46-Permutations](./46-permutations) | Medium |
 
 ## Binary Search
 
@@ -415,4 +422,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 73**
+**Total Problems Solved: 74**
