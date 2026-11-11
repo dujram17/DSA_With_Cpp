@@ -33,6 +33,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [154-Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii) | Hard |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [189-Rotate Array](./189-rotate-array) | Medium |
+| [229-Majority Element II](./229-majority-element-ii) | Medium |
 | [260-Single Number III](./260-single-number-iii) | Medium |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [283-Move Zeroes](./283-move-zeroes) | Easy |
@@ -97,6 +98,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [169-Majority Element](./169-majority-element) | Easy |
+| [229-Majority Element II](./229-majority-element-ii) | Medium |
 
 ## Boyer–Moore String-Search Algorithm
 
@@ -128,6 +130,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [169-Majority Element](./169-majority-element) | Easy |
+| [229-Majority Element II](./229-majority-element-ii) | Medium |
 
 ## Counting Sort
 
@@ -181,6 +184,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [41-First Missing Positive](./41-first-missing-positive) | Hard |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [205-Isomorphic Strings](./205-isomorphic-strings) | Easy |
+| [229-Majority Element II](./229-majority-element-ii) | Medium |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [389-Find the Difference](./389-find-the-difference) | Easy |
@@ -344,6 +348,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [75-Sort Colors](./75-sort-colors) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
 | [169-Majority Element](./169-majority-element) | Easy |
+| [229-Majority Element II](./229-majority-element-ii) | Medium |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [389-Find the Difference](./389-find-the-difference) | Easy |
@@ -422,4 +427,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 74**
+**Total Problems Solved: 75**
