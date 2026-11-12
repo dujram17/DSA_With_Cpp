@@ -46,6 +46,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
+| [3372-Longest Strictly Increasing or Strictly Decreasing Subarray](./3372-longest-strictly-increasing-or-strictly-decreasing-subarray) | Easy |
 
 ## Backtracking
 
@@ -427,4 +428,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 75**
+**Total Problems Solved: 76**
