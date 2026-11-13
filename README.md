@@ -32,6 +32,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [153-Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array) | Medium |
 | [154-Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii) | Hard |
 | [169-Majority Element](./169-majority-element) | Easy |
+| [179-Largest Number](./179-largest-number) | Medium |
 | [189-Rotate Array](./189-rotate-array) | Medium |
 | [229-Majority Element II](./229-majority-element-ii) | Medium |
 | [260-Single Number III](./260-single-number-iii) | Medium |
@@ -176,6 +177,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | Problem Name | Difficulty |
 |---|---|
 | [11-Container With Most Water](./11-container-with-most-water) | Medium |
+| [179-Largest Number](./179-largest-number) | Medium |
 
 ## Hash Table
 
@@ -349,6 +351,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [75-Sort Colors](./75-sort-colors) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
 | [169-Majority Element](./169-majority-element) | Easy |
+| [179-Largest Number](./179-largest-number) | Medium |
 | [229-Majority Element II](./229-majority-element-ii) | Medium |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
@@ -372,6 +375,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [28-Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
 | [38-Count and Say](./38-count-and-say) | Medium |
 | [151-Reverse Words in a String](./151-reverse-words-in-a-string) | Medium |
+| [179-Largest Number](./179-largest-number) | Medium |
 | [205-Isomorphic Strings](./205-isomorphic-strings) | Easy |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [344-Reverse String](./344-reverse-string) | Easy |
@@ -428,4 +432,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 76**
+**Total Problems Solved: 77**
