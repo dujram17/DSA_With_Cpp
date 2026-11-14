@@ -48,6 +48,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
 | [3372-Longest Strictly Increasing or Strictly Decreasing Subarray](./3372-longest-strictly-increasing-or-strictly-decreasing-subarray) | Easy |
+| [3644-Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray) | Easy |
 
 ## Backtracking
 
@@ -310,6 +311,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 
+## Prefix Sum
+
+| Problem Name | Difficulty |
+|---|---|
+| [3644-Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray) | Easy |
+
 ## Quicksort
 
 | Problem Name | Difficulty |
@@ -341,6 +348,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
 | [258-Add Digits](./258-add-digits) | Easy |
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
+
+## Sliding Window
+
+| Problem Name | Difficulty |
+|---|---|
+| [3644-Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray) | Easy |
 
 ## Sorting
 
@@ -432,4 +445,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 77**
+**Total Problems Solved: 78**
