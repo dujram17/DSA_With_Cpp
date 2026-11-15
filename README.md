@@ -44,6 +44,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [792-Binary Search](./792-binary-search) | Easy |
 | [948-Sort an Array](./948-sort-an-array) | Medium |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
+| [1631-Number of Sub-arrays With Odd Sum](./1631-number-of-sub-arrays-with-odd-sum) | Medium |
 | [1677-Matrix Diagonal Sum](./1677-matrix-diagonal-sum) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
@@ -160,6 +161,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
 | [338-Counting Bits](./338-counting-bits) | Easy |
 | [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
+| [1631-Number of Sub-arrays With Odd Sum](./1631-number-of-sub-arrays-with-odd-sum) | Medium |
 
 ## Floyd's Cycle Finding Algorithm
 
@@ -246,6 +248,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [1406-Subtract the Product and Sum of Digits of an Integer](./1406-subtract-the-product-and-sum-of-digits-of-an-integer) | Easy |
 | [1444-Number of Steps to Reduce a Number to Zero](./1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
 | [1630-Count Odd Numbers in an Interval Range](./1630-count-odd-numbers-in-an-interval-range) | Easy |
+| [1631-Number of Sub-arrays With Odd Sum](./1631-number-of-sub-arrays-with-odd-sum) | Medium |
 | [2238-A Number After a Double Reversal](./2238-a-number-after-a-double-reversal) | Easy |
 | [2383-Add Two Integers](./2383-add-two-integers) | Easy |
 | [2556-Convert the Temperature](./2556-convert-the-temperature) | Easy |
@@ -317,6 +320,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [1631-Number of Sub-arrays With Odd Sum](./1631-number-of-sub-arrays-with-odd-sum) | Medium |
 | [3644-Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray) | Easy |
 
 ## Quicksort
@@ -448,4 +452,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 79**
+**Total Problems Solved: 80**
