@@ -354,6 +354,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [54-Spiral Matrix](./54-spiral-matrix) | Medium |
 | [258-Add Digits](./258-add-digits) | Easy |
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
+| [2361-Calculate Digit Sum of a String](./2361-calculate-digit-sum-of-a-string) | Easy |
 
 ## Sliding Window
 
@@ -403,6 +404,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 | [742-To Lower Case](./742-to-lower-case) | Easy |
 | [953-Reverse Only Letters](./953-reverse-only-letters) | Easy |
+| [2361-Calculate Digit Sum of a String](./2361-calculate-digit-sum-of-a-string) | Easy |
 
 ## String Matching
 
@@ -452,4 +454,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 80**
+**Total Problems Solved: 81**
