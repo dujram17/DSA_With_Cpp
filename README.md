@@ -69,6 +69,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [154-Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii) | Hard |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
+| [367-Valid Perfect Square](./367-valid-perfect-square) | Easy |
 | [441-Arranging Coins](./441-arranging-coins) | Easy |
 | [540-Single Element in a Sorted Array](./540-single-element-in-a-sorted-array) | Medium |
 | [792-Binary Search](./792-binary-search) | Easy |
@@ -241,6 +242,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [292-Nim Game](./292-nim-game) | Easy |
 | [326-Power of Three](./326-power-of-three) | Easy |
 | [342-Power of Four](./342-power-of-four) | Easy |
+| [367-Valid Perfect Square](./367-valid-perfect-square) | Easy |
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 | [441-Arranging Coins](./441-arranging-coins) | Easy |
 | [507-Perfect Number](./507-perfect-number) | Easy |
@@ -454,4 +456,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 81**
+**Total Problems Solved: 82**
