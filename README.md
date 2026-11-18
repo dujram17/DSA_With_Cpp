@@ -41,6 +41,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [540-Single Element in a Sorted Array](./540-single-element-in-a-sorted-array) | Medium |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
+| [748-Largest Number At Least Twice of Others](./748-largest-number-at-least-twice-of-others) | Easy |
 | [792-Binary Search](./792-binary-search) | Easy |
 | [948-Sort an Array](./948-sort-an-array) | Medium |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
@@ -379,6 +380,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [268-Missing Number](./268-missing-number) | Easy |
 | [389-Find the Difference](./389-find-the-difference) | Easy |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
+| [748-Largest Number At Least Twice of Others](./748-largest-number-at-least-twice-of-others) | Easy |
 | [948-Sort an Array](./948-sort-an-array) | Medium |
 | [1217-Relative Sort Array](./1217-relative-sort-array) | Easy |
 | [2917-Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target) | Easy |
@@ -456,4 +458,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 82**
+**Total Problems Solved: 83**
