@@ -169,6 +169,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [202-Happy Number](./202-happy-number) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 
 ## Game Theory
@@ -192,6 +193,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [13-Roman to Integer](./13-roman-to-integer) | Easy |
 | [41-First Missing Positive](./41-first-missing-positive) | Hard |
 | [169-Majority Element](./169-majority-element) | Easy |
+| [202-Happy Number](./202-happy-number) | Easy |
 | [205-Isomorphic Strings](./205-isomorphic-strings) | Easy |
 | [229-Majority Element II](./229-majority-element-ii) | Medium |
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
@@ -236,6 +238,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [70-Climbing Stairs](./70-climbing-stairs) | Easy |
 | [172-Factorial Trailing Zeroes](./172-factorial-trailing-zeroes) | Medium |
 | [189-Rotate Array](./189-rotate-array) | Medium |
+| [202-Happy Number](./202-happy-number) | Easy |
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [258-Add Digits](./258-add-digits) | Easy |
 | [263-Ugly Number](./263-ugly-number) | Easy |
@@ -444,6 +447,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
 | [151-Reverse Words in a String](./151-reverse-words-in-a-string) | Medium |
 | [189-Rotate Array](./189-rotate-array) | Medium |
+| [202-Happy Number](./202-happy-number) | Easy |
 | [283-Move Zeroes](./283-move-zeroes) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [344-Reverse String](./344-reverse-string) | Easy |
@@ -458,4 +462,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 83**
+**Total Problems Solved: 84**
