@@ -39,6 +39,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [268-Missing Number](./268-missing-number) | Easy |
 | [283-Move Zeroes](./283-move-zeroes) | Easy |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
+| [414-Third Maximum Number](./414-third-maximum-number) | Easy |
 | [540-Single Element in a Sorted Array](./540-single-element-in-a-sorted-array) | Medium |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 | [748-Largest Number At Least Twice of Others](./748-largest-number-at-least-twice-of-others) | Easy |
@@ -382,6 +383,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [242-Valid Anagram](./242-valid-anagram) | Easy |
 | [268-Missing Number](./268-missing-number) | Easy |
 | [389-Find the Difference](./389-find-the-difference) | Easy |
+| [414-Third Maximum Number](./414-third-maximum-number) | Easy |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 | [748-Largest Number At Least Twice of Others](./748-largest-number-at-least-twice-of-others) | Easy |
 | [948-Sort an Array](./948-sort-an-array) | Medium |
@@ -462,4 +464,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 84**
+**Total Problems Solved: 85**
