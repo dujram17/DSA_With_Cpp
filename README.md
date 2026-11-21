@@ -34,6 +34,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [169-Majority Element](./169-majority-element) | Easy |
 | [179-Largest Number](./179-largest-number) | Medium |
 | [189-Rotate Array](./189-rotate-array) | Medium |
+| [204-Count Primes](./204-count-primes) | Medium |
 | [229-Majority Element II](./229-majority-element-ii) | Medium |
 | [260-Single Number III](./260-single-number-iii) | Medium |
 | [268-Missing Number](./268-missing-number) | Easy |
@@ -166,6 +167,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
 | [1631-Number of Sub-arrays With Odd Sum](./1631-number-of-sub-arrays-with-odd-sum) | Medium |
 
+## Enumeration
+
+| Problem Name | Difficulty |
+|---|---|
+| [204-Count Primes](./204-count-primes) | Medium |
+
 ## Floyd's Cycle Finding Algorithm
 
 | Problem Name | Difficulty |
@@ -240,6 +247,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [172-Factorial Trailing Zeroes](./172-factorial-trailing-zeroes) | Medium |
 | [189-Rotate Array](./189-rotate-array) | Medium |
 | [202-Happy Number](./202-happy-number) | Easy |
+| [204-Count Primes](./204-count-primes) | Medium |
 | [231-Power of Two](./231-power-of-two) | Easy |
 | [258-Add Digits](./258-add-digits) | Easy |
 | [263-Ugly Number](./263-ugly-number) | Easy |
@@ -315,6 +323,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [204-Count Primes](./204-count-primes) | Medium |
 | [258-Add Digits](./258-add-digits) | Easy |
 
 ## Pigeonhole Principle
@@ -329,6 +338,18 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [1631-Number of Sub-arrays With Odd Sum](./1631-number-of-sub-arrays-with-odd-sum) | Medium |
 | [3644-Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray) | Easy |
+
+## Primality Test
+
+| Problem Name | Difficulty |
+|---|---|
+| [204-Count Primes](./204-count-primes) | Medium |
+
+## Prime Number Sieve
+
+| Problem Name | Difficulty |
+|---|---|
+| [204-Count Primes](./204-count-primes) | Medium |
 
 ## Quicksort
 
@@ -353,6 +374,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [326-Power of Three](./326-power-of-three) | Easy |
 | [342-Power of Four](./342-power-of-four) | Easy |
 | [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
+
+## Sieve Theory
+
+| Problem Name | Difficulty |
+|---|---|
+| [204-Count Primes](./204-count-primes) | Medium |
 
 ## Simulation
 
@@ -464,4 +491,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 85**
+**Total Problems Solved: 86**
