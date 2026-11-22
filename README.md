@@ -34,6 +34,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [169-Majority Element](./169-majority-element) | Easy |
 | [179-Largest Number](./179-largest-number) | Medium |
 | [189-Rotate Array](./189-rotate-array) | Medium |
+| [198-House Robber](./198-house-robber) | Medium |
 | [204-Count Primes](./204-count-primes) | Medium |
 | [229-Majority Element II](./229-majority-element-ii) | Medium |
 | [260-Single Number III](./260-single-number-iii) | Medium |
@@ -163,6 +164,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [42-Trapping Rain Water](./42-trapping-rain-water) | Hard |
 | [70-Climbing Stairs](./70-climbing-stairs) | Easy |
 | [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
+| [198-House Robber](./198-house-robber) | Medium |
 | [338-Counting Bits](./338-counting-bits) | Easy |
 | [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
 | [1631-Number of Sub-arrays With Odd Sum](./1631-number-of-sub-arrays-with-odd-sum) | Medium |
@@ -491,4 +493,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 86**
+**Total Problems Solved: 87**
