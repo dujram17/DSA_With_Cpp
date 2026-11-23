@@ -31,6 +31,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [152-Maximum Product Subarray](./152-maximum-product-subarray) | Medium |
 | [153-Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array) | Medium |
 | [154-Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii) | Hard |
+| [164-Maximum Gap](./164-maximum-gap) | Medium |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [179-Largest Number](./179-largest-number) | Medium |
 | [189-Rotate Array](./189-rotate-array) | Medium |
@@ -132,6 +133,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [164-Maximum Gap](./164-maximum-gap) | Medium |
 | [948-Sort an Array](./948-sort-an-array) | Medium |
 
 ## Counting
@@ -332,6 +334,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [164-Maximum Gap](./164-maximum-gap) | Medium |
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 
 ## Prefix Sum
@@ -364,6 +367,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 | Problem Name | Difficulty |
 |---|---|
+| [164-Maximum Gap](./164-maximum-gap) | Medium |
 | [948-Sort an Array](./948-sort-an-array) | Medium |
 
 ## Recursion
@@ -406,6 +410,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [16-3Sum Closest](./16-3sum-closest) | Medium |
 | [75-Sort Colors](./75-sort-colors) | Medium |
 | [88-Merge Sorted Array](./88-merge-sorted-array) | Easy |
+| [164-Maximum Gap](./164-maximum-gap) | Medium |
 | [169-Majority Element](./169-majority-element) | Easy |
 | [179-Largest Number](./179-largest-number) | Medium |
 | [229-Majority Element II](./229-majority-element-ii) | Medium |
@@ -493,4 +498,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 87**
+**Total Problems Solved: 88**
