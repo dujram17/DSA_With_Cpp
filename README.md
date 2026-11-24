@@ -263,6 +263,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 | [441-Arranging Coins](./441-arranging-coins) | Easy |
 | [507-Perfect Number](./507-perfect-number) | Easy |
+| [728-Self Dividing Numbers](./728-self-dividing-numbers) | Easy |
 | [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
 | [1406-Subtract the Product and Sum of Digits of an Integer](./1406-subtract-the-product-and-sum-of-digits-of-an-integer) | Easy |
 | [1444-Number of Steps to Reduce a Number to Zero](./1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
@@ -498,4 +499,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 88**
+**Total Problems Solved: 89**
