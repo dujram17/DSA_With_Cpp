@@ -278,6 +278,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [2812-Find the Maximum Achievable Number](./2812-find-the-maximum-achievable-number) | Easy |
 | [3227-Find Missing and Repeated Values](./3227-find-missing-and-repeated-values) | Easy |
 | [3371-Harshad Number](./3371-harshad-number) | Easy |
+| [3625-Stone Removal Game](./3625-stone-removal-game) | Easy |
 
 ## Matrix
 
@@ -398,6 +399,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 | [2271-Rearrange Array Elements by Sign](./2271-rearrange-array-elements-by-sign) | Medium |
 | [2361-Calculate Digit Sum of a String](./2361-calculate-digit-sum-of-a-string) | Easy |
+| [3625-Stone Removal Game](./3625-stone-removal-game) | Easy |
 
 ## Sliding Window
 
@@ -502,4 +504,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 90**
+**Total Problems Solved: 91**
