@@ -191,6 +191,12 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 |---|---|
 | [292-Nim Game](./292-nim-game) | Easy |
 
+## Geometry
+
+| Problem Name | Difficulty |
+|---|---|
+| [866-Rectangle Overlap](./866-rectangle-overlap) | Easy |
+
 ## Greedy
 
 | Problem Name | Difficulty |
@@ -265,6 +271,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [441-Arranging Coins](./441-arranging-coins) | Easy |
 | [507-Perfect Number](./507-perfect-number) | Easy |
 | [728-Self Dividing Numbers](./728-self-dividing-numbers) | Easy |
+| [866-Rectangle Overlap](./866-rectangle-overlap) | Easy |
 | [1013-Fibonacci Number](./1013-fibonacci-number) | Easy |
 | [1406-Subtract the Product and Sum of Digits of an Integer](./1406-subtract-the-product-and-sum-of-digits-of-an-integer) | Easy |
 | [1444-Number of Steps to Reduce a Number to Zero](./1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
@@ -504,4 +511,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 91**
+**Total Problems Solved: 92**
