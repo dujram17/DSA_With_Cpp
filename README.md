@@ -100,6 +100,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [287-Find the Duplicate Number](./287-find-the-duplicate-number) | Medium |
 | [338-Counting Bits](./338-counting-bits) | Easy |
 | [342-Power of Four](./342-power-of-four) | Easy |
+| [371-Sum of Two Integers](./371-sum-of-two-integers) | Medium |
 | [389-Find the Difference](./389-find-the-difference) | Easy |
 | [645-Set Mismatch](./645-set-mismatch) | Easy |
 | [1444-Number of Steps to Reduce a Number to Zero](./1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
@@ -267,6 +268,7 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 | [326-Power of Three](./326-power-of-three) | Easy |
 | [342-Power of Four](./342-power-of-four) | Easy |
 | [367-Valid Perfect Square](./367-valid-perfect-square) | Easy |
+| [371-Sum of Two Integers](./371-sum-of-two-integers) | Medium |
 | [412-Fizz Buzz](./412-fizz-buzz) | Easy |
 | [441-Arranging Coins](./441-arranging-coins) | Easy |
 | [507-Perfect Number](./507-perfect-number) | Easy |
@@ -511,4 +513,4 @@ A collection of my Data Structures and Algorithms learning, practice, and proble
 
 ## Progress
 
-**Total Problems Solved: 92**
+**Total Problems Solved: 93**
